@@ -10,8 +10,6 @@ or by email maxime.benucci@cpe.fr
 
 - 💻 TryHackMe : https://tryhackme.com/p/Maxxben
 
-- ✏️ Website :
-
 ---
 
 <h3 align="left"><b>Languages :</b></h3>
