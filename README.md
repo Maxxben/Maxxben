@@ -41,7 +41,7 @@ or by email maxime.benucci@cpe.fr
   <a href="https://www.microsoft.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="" width="40" height="40"/> </a>
   <a href="https://www.kali.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="" width="40" height="40"/> </a>
-  <a href="https://apple.com/" target="_blank"> <img src="https://companieslogo.com/img/orig/AAPL-bf1a4314.png?t=1632720960" alt="" width="40" height="40"/> </a>
+  <a href="https://apple.com/" target="_blank"> <img src="https://static.vecteezy.com/system/resources/thumbnails/021/671/852/small/white-apple-logo-free-png.png" alt="" width="40" height="40"/> </a>
 
 <h3 align="left"><b>Virtualization :</b></h3>
   <a href="https://www.vmware.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" alt="vmware" width="40" height="40"/> </a>
@@ -58,12 +58,6 @@ or by email maxime.benucci@cpe.fr
   <a href="https://www.pfsense.org/" target="_blank"> <img src="https://goopensource.fr/wp-content/uploads/2021/02/logo-pfsense-1.png" alt="" width="40" height="40"/> </a>
   <a href="https://www.whatsupgold.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKngZWapvw9YyoD66gpTqB46KWePrnI_rEw&usqp=CAU" alt="" width="40" height="40"/> </a>
   <a href="https://www.elastic.co/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/elkstack-logo-175.png" alt="" width="40" height="40"/> </a>
-
-
-
-
-
-
 
 <h3 align="left"><b>Tools :</b></h3>
   <a href="https://learn.microsoft.com/fr-fr/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank"> <img src="https://teddycorp.net/wp-content/uploads/2021/10/active-directory-logo.png" alt="" width="40" height="40"/> </a>
