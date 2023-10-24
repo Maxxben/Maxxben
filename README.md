@@ -1,4 +1,3 @@
-
 ### Hello 👋
 
 - 👷‍♂️ My name is Maxime, I'm currently working for the French Defense Ministry. Conducting several cybersecurity related projects.
@@ -33,12 +32,10 @@ or by email maxime.benucci@cpe.fr
   <!--<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>-->
   <!--<a href="https://www.angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a>-->
   <!--<a href="https://www.aurelia.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/aurelia-1-logo-png-transparent.png" alt="aurelia" width="40" height="40"/> </a>-->
-
-<h4 align="left"><b>Conteneurisation - CI/CD :</b></h4>
+  
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-
 
 <h3 align="left"><b>Operating Systems :</b></h3>
   <a href="https://www.microsoft.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="" width="40" height="40"/> </a>
@@ -55,24 +52,20 @@ or by email maxime.benucci@cpe.fr
   <a href="https://www.cisco.com/site/fr/fr/index.html" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1676243488428691458/tUEiXhTr_400x400.jpg" alt="cisco" width="40" height="40"/> </a>
   <a href="https://www.arubanetworks.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/29523115?s=280&v=4" alt="aruba" width="40" height="40"/> </a>
   <a href="https://www.pfsense.org/" target="_blank"> <img src="https://goopensource.fr/wp-content/uploads/2021/02/logo-pfsense-1.png" alt="" width="40" height="40"/> </a>
-  <a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> </a>
+  <a href="https://www.whatsupgold.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKngZWapvw9YyoD66gpTqB46KWePrnI_rEw&usqp=CAU" alt="" width="40" height="40"/> </a>
+  <a href="https://www.elastic.co/" target="_blank"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/elkstack-logo-175.png" alt="" width="40" height="40"/> </a>
+
+
+
+
 
 
 
 <h3 align="left"><b>Tools :</b></h3>
-  <a href="https://www.microsoft.com" target="_blank"> <img src="https://teddycorp.net/wp-content/uploads/2021/10/active-directory-logo.png" alt="" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/fr-fr/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank"> <img src="https://teddycorp.net/wp-content/uploads/2021/10/active-directory-logo.png" alt="" width="40" height="40"/> </a>
+  <a href="https://www.pingcastle.com/" target="_blank"> <img src="https://d4.alternativeto.net/BimMMb6WZ-1JPuSopthyw-IrKzI5m1Cvd9HyX5-3reU/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9waW5nY2FzdGxlXzE5NDc2OC5wbmc.png" alt="" width="40" height="40"/> </a>
+  <a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> </a>
 
-
-
-
-
-
-  <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
 <br>
 
 
