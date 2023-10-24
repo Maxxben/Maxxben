@@ -45,8 +45,12 @@ or by email maxime.benucci@cpe.fr
 
 <h3 align="left"><b>Virtualization :</b></h3>
   <a href="https://www.vmware.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" alt="vmware" width="40" height="40"/> </a>
-  <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="" width="40" height="40"/> </a>
   <a href="https://www.vmware.com/" target="_blank"> <img src="https://www.kevinsubileau.fr/wp-content/uploads/2017/09/vmware-vsphere-logo-1024x1024.png" alt="" width="40" height="40"/> </a>
+  <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://yt3.googleusercontent.com/ajO8Hcx0lN0CphmMyVpbGwbH9TRK3ySphKvBLFrJabqjfmmCpU1-5uo30lHstAyjE5mILjfksQ=s900-c-k-c0x00ffffff-no-rj" alt="" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://logos-marques.com/wp-content/uploads/2022/03/Microsoft-Azure-logo-1.png" alt="" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="" width="40" height="40"/> </a>
+  <a href="https://docs.ansible.com/" target="_blank"> <img src="https://i.imgflip.com/5o55va.png" alt="" width="40" height="40"/> </a>
 
 <h3 align="left"><b>Network :</b></h3>
   <a href="https://www.cisco.com/site/fr/fr/index.html" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1676243488428691458/tUEiXhTr_400x400.jpg" alt="cisco" width="40" height="40"/> </a>
@@ -67,7 +71,7 @@ or by email maxime.benucci@cpe.fr
   <a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> </a>
 
 <br>
-
+<br>
 
 <p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api?username=maxxben&show_icons=true&theme=transparent" alt="maxxben" /> </p>
 
