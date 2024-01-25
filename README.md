@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 👷‍♂️ My name is Maxime, I'm currently working for the French Defense Ministry. Conducting several cybersecurity related projects.
+- 👷‍♂️ My name is Maxime, studying cybersecurity et CPE Lyon school. Conducting several cybersecurity related projects.
 
 - 📖 I’m enrolled in a Master's degree in Engineering in Computer Science & Cybersecurity at CPE Lyon.
 
