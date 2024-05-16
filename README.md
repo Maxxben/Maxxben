@@ -4,10 +4,6 @@
 
 - 📖 I’m enrolled in a Master's degree in Engineering in Computer Science & Cybersecurity at CPE Lyon.
 
-- 📫 How to reach me:
-[Linkedin](https://www.linkedin.com/in/maxime-benucci-511188201/)
-or by email maxime.benucci@cpe.fr
-
 - 💻 TryHackMe : https://tryhackme.com/p/Maxxben
 
 ---
